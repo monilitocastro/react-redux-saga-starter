@@ -13,4 +13,6 @@ test("incremental Saga test", assert => {
     },
     "increment Async should return a Promise that will resolve after 1 second"
   );
+
+  assert.end();
 });
