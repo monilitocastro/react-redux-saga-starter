@@ -1,5 +1,6 @@
 # redux-saga-beginner-tutorial
-Companion Repo for [Redux/Redux-saga beginner tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
+
+Starter Repo for [Redux/Redux-saga](https://github.com/monilitocastro/react-redux-saga-starter.git)
 
 # Instructions
 
@@ -7,9 +8,9 @@ Setup
 
 ```
 // clone the repo
-git clone https://github.com/redux-saga/redux-saga-beginner-tutorial.git
+git clone https://github.com/monilitocastro/react-redux-saga-starter.git redux-saga-starter
 
-cd redux-saga-beginner-tutorial
+cd redux-saga-starter
 
 npm install
 ```
