@@ -2,6 +2,9 @@ import test from "tape";
 
 import { incrementAsync } from "./sagas";
 
+import { delay } from "redux-saga";
+import { call } from "redux-saga/effects";
+
 test("incremental Saga test", assert => {
   const gen = incrementAsync();
 
